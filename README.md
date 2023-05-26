@@ -75,7 +75,7 @@ Contributions to the Netflix Clone project are welcome. If you encounter any iss
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
+Test Id for Login: helloworld@gmail.com password: 123456 
 Attching a few SS:
 ![image](https://github.com/Nee-Shar/Netflix-Clone/assets/99169026/df233e3b-fbcf-4677-8244-700dc017c5ca)
 ![image](https://github.com/Nee-Shar/Netflix-Clone/assets/99169026/a72d908e-44d6-479b-9cc2-ca1f7f9f756a)
