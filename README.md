@@ -81,4 +81,8 @@ Attching a few SS:
 ![image](https://github.com/Nee-Shar/Netflix-Clone/assets/99169026/d3d025e2-3980-4ec6-8dfc-6ce9997ce468)
 ![image](https://github.com/Nee-Shar/Netflix-Clone/assets/99169026/7c456f7e-3db9-4548-a29e-97a7ce194e2a)
 ![image](https://github.com/Nee-Shar/Netflix-Clone/assets/99169026/a0e19481-e8d3-4708-9e31-9825d7786d58)
-![image](https://github.com/Nee-Shar/Netflix-Clone/assets/99169026/75f08d4a-ce81-4960-a53a-c60c47037ac4)
+![image](ht
+
+https://github.com/Nee-Shar/Netflix-Clone/assets/99169026/c06daf49-256e-4389-8484-bf0064c528b7
+
+tps://github.com/Nee-Shar/Netflix-Clone/assets/99169026/75f08d4a-ce81-4960-a53a-c60c47037ac4)
