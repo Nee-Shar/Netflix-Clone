@@ -12,7 +12,6 @@ So no more live demo .
 - Displaying movie and TV show data
 - Trailer pop-up for selected content
 - Navigation through different genres
-- Search functionality
 - Customized UI inspired by Netflix's design
 
 ## Technologies Used
