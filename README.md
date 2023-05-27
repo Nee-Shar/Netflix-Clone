@@ -2,9 +2,9 @@
 
 This is a Netflix clone web application developed using React.js, React Bootstrap, React Hooks, React Routing, and Google Firebase for authentication. It is a beginner-level project and may not have full mobile responsiveness.
 
-## Live Demo
 
-Check out the live demo of the Netflix Clone: [Netflix Clone Demo](https://reactnetflixcloneneeshar.netlify.app/)
+Update 27/05/2023 Google turned down my website for being deceptive to original Netflix site 🥲
+So no more live demo .
 
 ## Features
 
